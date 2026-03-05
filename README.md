@@ -269,7 +269,7 @@ Quer levar inteligência artificial para o seu negócio? Entre em contato e vamo
 
 NOME FANTASIA: IA Empreende 
 
-APP comandado por VOZ ou TEXTO
+APP IA comandado por VOZ ou TEXTO
 
 SITE: https://pocket-biz-coach.lovable.app
 
