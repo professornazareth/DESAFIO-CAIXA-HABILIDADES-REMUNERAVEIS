@@ -273,10 +273,6 @@ APP IA comandado por VOZ ou TEXTO
 
 SITE: https://pocket-biz-coach.lovable.app
 
-PROJETO: https://lovable.dev/projects/238fa265-2ec5-4974-bc77-389587523191
-
-LOVABLE PÁGINA PRODUTO MEU PERFIL: https://lovable.dev/products/pocket-biz-coach
-
 <img width="1437" height="820" alt="Captura de tela 2026-02-28 111427" src="https://github.com/user-attachments/assets/686e41a4-f24f-4113-af27-e12989467940" />
 <img width="1426" height="826" alt="Captura de tela 2026-02-28 111602" src="https://github.com/user-attachments/assets/3447333a-a9dc-4039-ae6f-90710f774557" />
 <img width="1425" height="817" alt="Captura de tela 2026-02-28 112735" src="https://github.com/user-attachments/assets/d3c47d29-01c7-481b-b0e6-30e531b74856" />
