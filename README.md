@@ -224,6 +224,7 @@ Profissional com fluência em três idiomas e sólida capacidade de comunicaçã
 ---
 
 ## Conclusão
+
 O mercado atual valoriza profissionais que unem **comunicação, liderança, raciocínio crítico e execução**.  
 As áreas mais promissoras para aplicar essas habilidades são:  
 - Educação e treinamento  
@@ -233,46 +234,65 @@ As áreas mais promissoras para aplicar essas habilidades são:
 
 # RESULTADO PRÁTICO: APP IA EMPREENDEDOR PARA GERENCIAR PEQUENOS NEGÓCIOS COMANDO VOZ E TEXTO
 
-IA Empreende – Administrador de Pequenos Negócios
+# IA Empreende – Administrador de Pequenos Negócios
+
 Aplicativo desenvolvido para ajudar pequenos empreendedores locais a organizar e administrar seus negócios com inteligência artificial.
-Sobre o Projeto
+
+# Sobre o Projeto
+
 O IA Empreende nasceu para simplificar a vida de quem toca um pequeno negócio. Com ele, você consegue centralizar pedidos, gerar relatórios automáticos e ter mais tempo para focar no que realmente importa: seus clientes.
-Funcionalidades
+
+# Funcionalidades
+
     • Organização de pedidos (loja física e delivery)
     • Relatórios de vendas automáticos
     • Controle simples e prático de estoque
     • Suporte para tomada de decisão com base em dados
-Benefícios
+    
+# Benefícios
+
     • Mais tempo para focar no cliente
     • Menos erros na gestão
     • Crescimento sustentável
     • Gestão acessível e prática para qualquer empreendedor
-Exemplos de Uso
+    
+# Exemplos de Uso
+
 Confira na pasta exemplos/ como o app pode ser aplicado em diferentes cenários:
     1. Delivery organizado → pedidos centralizados em um só painel.
     2. Relatórios de vendas → gráficos claros para entender o desempenho.
     3. Gestão simplificada → menos papelada, mais resultados.
-Prints
+    
+# Prints
+
 Na pasta prints/ você encontra capturas de tela do app em funcionamento, como:
     • Painel de pedidos
     • Relatórios de vendas
     • Tela de configuração inicial
-Como funciona
+    
+# Como funciona
+
     1. Cadastro do negócio (loja física ou delivery).
     2. Centralização dos pedidos no painel.
     3. Relatórios automáticos de vendas e desempenho.
     4. Suporte contínuo para otimizar a gestão.
-Parcerias
-O IA Empreende já está em uso em uma hamburgueria local com duas lojas (presencial e delivery). O resultado? Mais organização, menos erros e mais tempo para focar no sabor e nos clientes.
-Contato
-Quer levar inteligência artificial para o seu negócio? Entre em contato e vamos conversar sobre como o IA Empreende pode ajudar você a crescer.
+    
+# Parcerias
 
-NOME FANTASIA: IA Empreende 
+O IA Empreende já está em uso em uma hamburgueria local com duas lojas (presencial e delivery). 
+O resultado? 
+Mais organização, menos erros e mais tempo para você apenas focar no sabor e nos clientes.
 
-APP IA comandado por VOZ ou TEXTO
+# Contato
+
+Quer levar inteligência artificial para o seu negócio? 
+Entre em contato e vamos conversar sobre como o IA Empreende vai ajudar você a crescer.
+
+# NOME FANTASIA: IA Empreende 
+
+# APP IA comandado por VOZ ou TEXTO
 
 SITE: https://pocket-biz-coach.lovable.app
 
-<img width="1437" height="820" alt="Captura de tela 2026-02-28 111427" src="https://github.com/user-attachments/assets/686e41a4-f24f-4113-af27-e12989467940" />
-<img width="1426" height="826" alt="Captura de tela 2026-02-28 111602" src="https://github.com/user-attachments/assets/3447333a-a9dc-4039-ae6f-90710f774557" />
-<img width="1425" height="817" alt="Captura de tela 2026-02-28 112735" src="https://github.com/user-attachments/assets/d3c47d29-01c7-481b-b0e6-30e531b74856" />
+
+
